@@ -1,0 +1,7 @@
+{"Question": "Combien vaut 1+1 ?", "A": "2, bien evidemment !", "B": "1", "C": "ca depend ?", "D": "La reponse D", "Reponse": "D"}
+{"Question": "Qui est le plus beau ?", "A": "Vous", "B": "Les createurs de ce jeu", "C": "Rene Coty", "D": "La reponse D", "Reponse": "B"}
+{"Question": "La reponse a la question de la vie ?", "A": "la mort", "B": "le recommencement", "C": "42", "D": "12", "Reponse": "C"}
+{"Question": "Meilleure valeur approchee de pi", "A": "3.142", "B": "3.141", "C": "9801*sqrt(2)/4412", "D": "exp(1)", "Reponse": "C"}
+{"Question": "Factoriser : X^4+X^2+1", "A": "(X**2+X+1)(X**2-X+1)", "B": "(X**2+X+1)(X**2+X+1)", "C": "(X**2+X+1)(X**2+X-1)", "D": "(X**2-X-1)(X**2+X+1)", "Reponse": "A"}
+{"Question": "DL(0) de (sin(x))^6", "A": "x**6-(x**8)/2+o(x**9)", "B": "x**6-x**8+o(x**9)", "C": "x**6-(x**8)/4!+o(x**9)", "D": "x**6+(x**8)/4!+o(x**9))", "Reponse": "B"}
+{"Question": "A quoi est egal cos(3x) ?", "A": "4sin(x)**3 - 3sin(x)", "B": "4cos(x)**3-3cos(x)", "C": "4cos(x)**3+3cos(x)", "D": "cos(x)**3-3cos(x)", "Reponse": "B"}
